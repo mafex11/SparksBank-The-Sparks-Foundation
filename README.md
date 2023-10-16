@@ -4,7 +4,7 @@
 
 <h2>Homepage</h2>
 <p align="center">
-  <img src="https://github.com/mafex11/SparksBank-The-Sparks-Foundation/blob/master/images/Homepage.png" width="1000" title="hover text">
+  <img src="https://github.com/mafex11/SparksBank-The-Sparks-Foundation/blob/main/images/Homepage.png" width="1000" title="hover text">
 </p>
 
 <h2>Customer list</h2>
