@@ -9,11 +9,11 @@
 
 <h2>Customer list</h2>
 <p align="center">
-  <img src="https://github.com/mafex11/SparksBank-The-Sparks-Foundation/blob/master/images/Customer_list.png" width="1000" title="hover text">
+  <img src="https://github.com/mafex11/SparksBank-The-Sparks-Foundation/blob/main/images/Customer_list.png" width="1000" title="hover text">
 </p>
 
 <h2>Transaction history</h2>
 <p align="center">
-  <img src="https://github.com/mafex11/SparksBank-The-Sparks-Foundation/blob/master/images/transactionhistory.jpg.png" width="1000" title="hover text">
+  <img src="https://github.com/mafex11/SparksBank-The-Sparks-Foundation/blob/main/images/transactionhistory.jpg.png" width="1000" title="hover text">
 </p>
 
